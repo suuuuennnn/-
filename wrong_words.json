@@ -1,0 +1,114 @@
+{
+  "wrong_words": {
+    "moral": {
+      "count": 1,
+      "last_error_time": "2026-06-06 23:48:12",
+      "word_data": {
+        "eng": "moral",
+        "meanings": [
+          "道德的"
+        ]
+      }
+    },
+    "pretend": {
+      "count": 1,
+      "last_error_time": "2026-06-07 00:32:30",
+      "word_data": {
+        "eng": "pretend",
+        "meanings": [
+          "假装"
+        ]
+      }
+    },
+    "dial": {
+      "count": 1,
+      "last_error_time": "2026-06-07 00:40:23",
+      "word_data": {
+        "eng": "dial",
+        "meanings": [
+          "拨号"
+        ]
+      }
+    },
+    "attach": {
+      "count": 1,
+      "last_error_time": "2026-06-07 00:41:44",
+      "word_data": {
+        "eng": "attach",
+        "meanings": [
+          "系上，附上"
+        ]
+      }
+    },
+    "despite": {
+      "count": 1,
+      "last_error_time": "2026-06-07 00:42:14",
+      "word_data": {
+        "eng": "despite",
+        "meanings": [
+          "尽管"
+        ]
+      }
+    },
+    "substance": {
+      "count": 1,
+      "last_error_time": "2026-06-07 00:46:32",
+      "word_data": {
+        "eng": "substance",
+        "meanings": [
+          "物质"
+        ]
+      }
+    },
+    "authority": {
+      "count": 1,
+      "last_error_time": "2026-06-07 00:53:09",
+      "word_data": {
+        "eng": "authority",
+        "meanings": [
+          "权威，权力"
+        ]
+      }
+    },
+    "intact": {
+      "count": 1,
+      "last_error_time": "2026-06-07 01:09:06",
+      "word_data": {
+        "eng": "intact",
+        "meanings": [
+          "完好无损的"
+        ]
+      }
+    },
+    "proper": {
+      "count": 1,
+      "last_error_time": "2026-06-07 01:15:35",
+      "word_data": {
+        "eng": "proper",
+        "meanings": [
+          "适当的"
+        ]
+      }
+    },
+    "split": {
+      "count": 1,
+      "last_error_time": "2026-06-07 01:18:35",
+      "word_data": {
+        "eng": "split",
+        "meanings": [
+          "分裂"
+        ]
+      }
+    },
+    "bitter": {
+      "count": 1,
+      "last_error_time": "2026-06-07 01:36:12",
+      "word_data": {
+        "eng": "bitter",
+        "meanings": [
+          "苦的，痛苦的"
+        ]
+      }
+    }
+  }
+}
